@@ -7,21 +7,23 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+h1 { color: #ff0055; } 
+
 /* Provide sufficient contrast against white background */
 a {
-  color: #0366d6;
+  color: #eb4e32;
 }
 
 .btn-primary {
   color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  background-color: #943009;
+  border-color: #80052a;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  background-color: #9e0a43;
+  border-color: #ad0505;
 }
 
 /* Sticky footer styles
